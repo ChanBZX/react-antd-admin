@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "mock": "json-server --watch mock/db.json --port 3003"
   },
   "dependencies": {
     "axios": "^0.27.2",
