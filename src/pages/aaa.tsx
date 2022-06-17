@@ -11,7 +11,7 @@ function Caaa() {
 
 
   return (
-    <div className="App">
+    <div className="text-red-500">
       <div onClick={sadsasd}>接口</div>
     </div>
   )
